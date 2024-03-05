@@ -29,11 +29,15 @@ git clone https://github.com/BaldeepArora/PyJobScraper.git
 cd PyJobScraper
 ```
 4. Install the required Python packages:
-```  pip install -r requirements.txt ```
+```
+pip install -r requirements.txt
+```
 ### Usage
 1. Start the script
-```  python main.py```
-2. When prompted, enter the skills you are not familiar with, separated by commas. For example:
+```
+python main.py
+```
+3. When prompted, enter the skills you are not familiar with, separated by commas. For example:
 ```
 Put some skills that you are not familiar with (separate them by comma): 
 > Django, Flask, Docker
