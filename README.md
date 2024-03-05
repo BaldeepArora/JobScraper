@@ -32,7 +32,8 @@ git clone https://github.com/BaldeepArora/PyJobScraper.git
 1. Start the script
 ```  python main.py```
 2. When prompted, enter the skills you are not familiar with, separated by commas. For example:
-```  Put some skills that you are not familiar with (separate them by comma): 
-> Django, Flask, Docker ```
-
+```
+Put some skills that you are not familiar with (separate them by comma): 
+> Django, Flask, Docker
+```
 3. The script will start searching for jobs and will save the listings that don't require the specified skills in the posts directory. Each listing is saved in a separate text file named according to its index.
