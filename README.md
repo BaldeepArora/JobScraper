@@ -23,17 +23,16 @@ JobScraper is a Python-based web scraping tool designed to automate the process 
 
 ```bash
 git clone https://github.com/BaldeepArora/PyJobScraper.git
-
+```
 1. Navigate to the cloned directory:
-  cd PyJobScraper
+```  cd PyJobScraper```
 2. Install the required Python packages:
-  pip install -r requirements.txt
-
+```  pip install -r requirements.txt ```
 ### Usage
 1. Start the script
-  python main.py
+```  python main.py```
 2. When prompted, enter the skills you are not familiar with, separated by commas. For example:
-  Put some skills that you are not familiar with (separate them by comma): 
-> Django, Flask, Docker
+```  Put some skills that you are not familiar with (separate them by comma): 
+> Django, Flask, Docker ```
 
 3. The script will start searching for jobs and will save the listings that don't require the specified skills in the posts directory. Each listing is saved in a separate text file named according to its index.
