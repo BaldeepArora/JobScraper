@@ -24,9 +24,11 @@ JobScraper is a Python-based web scraping tool designed to automate the process 
 ```bash
 git clone https://github.com/BaldeepArora/PyJobScraper.git
 ```
-1. Navigate to the cloned directory:
-```  cd PyJobScraper```
-2. Install the required Python packages:
+2. Navigate to the cloned directory:
+```
+cd PyJobScraper
+```
+4. Install the required Python packages:
 ```  pip install -r requirements.txt ```
 ### Usage
 1. Start the script
